@@ -6,8 +6,6 @@
 
 ✔️Configura la descarga del archivo y elimina versiones anteriores.
 
-✔️Inicia sesión en la página y accede al informe.
-
 ✔️En el método test_informe, se realizan acciones como hacer clic en botones y seleccionar fechas.
 
 ✔️Se pueden realizar verificaciones para asegurar la precisión de los datos extraídos.
